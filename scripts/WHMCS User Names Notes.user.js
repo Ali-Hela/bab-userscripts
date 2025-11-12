@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         WHMCS User Names Notes
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
-// @description  Lightweight version: adds custom name inputs and shows them in all flagto dropdowns using localStorage
+// @version      1.0.0
+// @description  Adds custom name inputs and shows them in all assignee dropdowns using localStorage
+// @author       Ali-Hela
 // @match        https://account.bab-albahrain.com/babadmin/supporttickets.php*
 // @icon         https://account.bab-albahrain.com/favicon.ico
 // @grant        none

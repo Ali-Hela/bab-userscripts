@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  Add personal notes to support tickets
-// @author       You
+// @author       Ali-Hela
 // @match        https://account.bab-albahrain.com/babadmin/supporttickets.php*
 // @icon         https://account.bab-albahrain.com/favicon.ico
 // @grant        none

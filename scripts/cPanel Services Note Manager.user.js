@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         cPanel Services Note Manager
 // @namespace    http://tampermonkey.net/
-// @version      2025-01-06
+// @version      1.0.0
 // @description  Add note boxes for cPanel services by IP address
-// @author       You
+// @author       Ali-Hela
 // @match        https://store.cpanel.net/clientarea.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=cpanel.net
 // @grant        none

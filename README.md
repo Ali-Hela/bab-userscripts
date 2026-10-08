@@ -1,5 +1,5 @@
 # bab-userscripts
-Tampermonkey Userscripts for Bab AlBahrain.
+Tampermonkey userscripts for the WHMCS 8.2.1 admin area.
 
 ## Usage
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser

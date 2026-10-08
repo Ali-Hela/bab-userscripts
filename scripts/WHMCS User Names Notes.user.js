@@ -2,10 +2,10 @@
 // @name         WHMCS User Names Notes
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Adds custom name inputs and shows them in all assignee dropdowns using localStorage
+// @description  Add custom display names next to staff names in the WHMCS 8.2.1 admin ticket list and assignee dropdowns (stored in localStorage)
 // @author       Ali-Hela
-// @match        https://account.bab-albahrain.com/babadmin/supporttickets.php*
-// @icon         https://account.bab-albahrain.com/favicon.ico
+// @match        *://*/*/supporttickets.php*
+// @match        *://*/supporttickets.php*
 // @grant        none
 // ==/UserScript==
 

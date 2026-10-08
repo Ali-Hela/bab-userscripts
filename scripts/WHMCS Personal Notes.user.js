@@ -2,10 +2,10 @@
 // @name         WHMCS Personal Notes
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Add personal notes to support tickets
+// @description  Add personal notes to support tickets in the WHMCS 8.2.1 admin area
 // @author       Ali-Hela
-// @match        https://account.bab-albahrain.com/babadmin/supporttickets.php*
-// @icon         https://account.bab-albahrain.com/favicon.ico
+// @match        *://*/*/supporttickets.php*
+// @match        *://*/supporttickets.php*
 // @grant        none
 // ==/UserScript==
 

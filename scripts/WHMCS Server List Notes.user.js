@@ -2,10 +2,10 @@
 // @name         WHMCS Server List Notes
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Add note boxes to WHMCS server list page using localStorage
+// @description  Add note boxes to the WHMCS 8.2.1 admin server list page using localStorage
 // @author       Ali-Hela
-// @match        https://account.bab-albahrain.com/babadmin/configservers.php
-// @icon         https://account.bab-albahrain.com/favicon.ico
+// @match        *://*/*/configservers.php
+// @match        *://*/configservers.php
 // @grant        none
 // ==/UserScript==
 

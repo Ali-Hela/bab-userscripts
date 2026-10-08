@@ -2,10 +2,10 @@
 // @name         WHMCS Clean Ticket Messages
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Clean cluttered email messages in support tickets (blank lines, mailto spam, banners, quoted threads) with a one-click restore
+// @description  Clean cluttered email messages in WHMCS 8.2.1 support tickets (blank lines, mailto spam, banners, quoted threads) with a one-click restore
 // @author       Ali-Hela
-// @match        https://account.bab-albahrain.com/babadmin/supporttickets.php*
-// @icon         https://account.bab-albahrain.com/favicon.ico
+// @match        *://*/*/supporttickets.php*
+// @match        *://*/supporttickets.php*
 // @grant        none
 // ==/UserScript==
 
@@ -45,7 +45,6 @@
         /^\[?EXTERNAL (SENDER|EMAIL)\]?$/i,
         /^CAUTION:\s*This email originated/i,
         /^DO NOT CLICK on links/i,
-        /^AFS Classification\b/i,
         /^Sent from my (iPhone|iPad|Android|Samsung)/i,
         /^Get Outlook for /i,
     ];

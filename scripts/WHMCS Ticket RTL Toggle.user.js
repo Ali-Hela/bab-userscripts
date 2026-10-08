@@ -2,11 +2,10 @@
 // @name         WHMCS Ticket RTL Toggle
 // @namespace    http://tampermonkey.net/
 // @version      2026-06-03
-// @description  Auto-RTL Arabic ticket replies + manual toggle buttons
-// @author       You
-// @match        https://account.bab-albahrain.com/babadmin/supporttickets.php?action=view*
-// @match        https://account.bab-albahrain.com/babadmin/supporttickets.php?action=viewticket*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=bab-albahrain.com
+// @description  Auto-RTL Arabic ticket replies + manual toggle buttons for WHMCS 8.2.1
+// @author       Ali-Hela
+// @match        *://*/*/supporttickets.php?action=view*
+// @match        *://*/supporttickets.php?action=view*
 // @grant        none
 // ==/UserScript==
 

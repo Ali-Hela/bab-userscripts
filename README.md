@@ -1,4 +1,4 @@
-# bab-userscripts
+# whmcs-userscripts
 Tampermonkey userscripts for the WHMCS 8.2.1 admin area.
 
 ## Usage
@@ -9,7 +9,7 @@ Tampermonkey userscripts for the WHMCS 8.2.1 admin area.
 ## Scripts
 |Name|Description|Install|Image|
 |---|---|---|---|
-|WHMCS Personal Notes|Add personal notes to WHMCS tickets|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20Personal%20Notes.user.js)|![Image](https://github.com/Ali-Hela/bab-userscripts/blob/main/screenshots/WHMCS%20Personal%20Notes.png?raw=true)|
-|WHMCS User Names Notes|Add notes next to user names in WHMCS|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20User%20Names%20Notes.user.js)|![Image](https://github.com/Ali-Hela/bab-userscripts/blob/main/screenshots/WHMCS%20User%20Names%20Notes.png?raw=true)|
-|WHMCS Ticket RTL Toggle|Adds button to correct RTL, and automatically does it too|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20Ticket%20RTL%20Toggle.user.js))|
-|WHMCS Clean Ticket Messages|Clean up cluttered email messages in tickets (with restore)|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20Clean%20Ticket%20Messages.user.js)||
+|WHMCS Personal Notes|Add personal notes to WHMCS tickets|[Install](https://github.com/Ali-Hela/whmcs-userscripts/raw/refs/heads/main/scripts/WHMCS%20Personal%20Notes.user.js)|![Image](https://github.com/Ali-Hela/whmcs-userscripts/blob/main/screenshots/WHMCS%20Personal%20Notes.png?raw=true)|
+|WHMCS User Names Notes|Add notes next to user names in WHMCS|[Install](https://github.com/Ali-Hela/whmcs-userscripts/raw/refs/heads/main/scripts/WHMCS%20User%20Names%20Notes.user.js)|![Image](https://github.com/Ali-Hela/whmcs-userscripts/blob/main/screenshots/WHMCS%20User%20Names%20Notes.png?raw=true)|
+|WHMCS Ticket RTL Toggle|Adds button to correct RTL, and automatically does it too|[Install](https://github.com/Ali-Hela/whmcs-userscripts/raw/refs/heads/main/scripts/WHMCS%20Ticket%20RTL%20Toggle.user.js))|
+|WHMCS Clean Ticket Messages|Clean up cluttered email messages in tickets (with restore)|[Install](https://github.com/Ali-Hela/whmcs-userscripts/raw/refs/heads/main/scripts/WHMCS%20Clean%20Ticket%20Messages.user.js)||

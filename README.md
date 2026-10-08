@@ -13,3 +13,4 @@ Tampermonkey Userscripts for Bab AlBahrain.
 |WHMCS User Names Notes|Add notes next to user names in WHMCS|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20User%20Names%20Notes.user.js)|![Image](https://github.com/Ali-Hela/bab-userscripts/blob/main/screenshots/WHMCS%20User%20Names%20Notes.png?raw=true)|
 |MTS Submit With Enter|Allow submitting MTS forms by pressing Enter key|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/MTS%20Submit%20With%20Enter.user.js)|
 |WHMCS Ticket RTL Toggle|Adds button to correct RTL, and automatically does it too|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20Ticket%20RTL%20Toggle.user.js))|
+|WHMCS Clean Ticket Messages|Clean up cluttered email messages in tickets (with restore)|[Install](https://github.com/Ali-Hela/bab-userscripts/raw/refs/heads/main/scripts/WHMCS%20Clean%20Ticket%20Messages.user.js)||
